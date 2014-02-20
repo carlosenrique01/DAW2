@@ -1,0 +1,27 @@
+﻿@model PK2_RSVPwapp.Models.GuestRespoonse
+
+@{
+    ViewBag.Title = "Agradecimientos";
+}
+
+<h2>Agradecimientos</h2>
+
+<html>
+    <head>
+         <meta name="viewport" content="widh-device-widh" />
+         <title>Agradecimientos</title>
+        </head>
+    <body>
+        <div>
+            <h1>Gracias,@Model.Name</h1>
+            @if (Model.WillAttend == true)
+            {
+                @: !Que Bueno Que Vendras¡ 
+            }
+            else
+            {
+                @: !Siento Mucho Que No Puedas Venir¡
+            }
+            </div>
+        </body>
+</html>
