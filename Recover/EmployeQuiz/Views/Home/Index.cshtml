@@ -1,0 +1,32 @@
+﻿@model EmployeQuiz.Models.Employee
+
+@{
+    Layout = null;
+}
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" type="text/css" href="~/content/Site.css" />
+    <title>Index</title>
+</head>
+<body>
+
+ <center>
+<h2>TRABAJADORES</h2>
+</center>
+
+    <div id="caja">
+         @using (Html.BeginForm())
+         {
+             <center>
+             <label id="la">Ingresa el codigo del empleado </label>   
+          <p>@Html.TextBoxFor(m => m.Id)</p>
+                 <br />
+     
+             <input type="submit" value="Buscar empleado" id="boton" />
+        </center>
+         }
+    </div>
+</body>
+   
+</html>

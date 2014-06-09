@@ -1,0 +1,11 @@
+C:\Users\cypher\AppData\Local\Temporary Projects\TextFileReader_csharp\bin\Debug\TextFileReader_csharp.exe
+C:\Users\cypher\AppData\Local\Temporary Projects\TextFileReader_csharp\bin\Debug\TextFileReader_csharp.pdb
+C:\Users\cypher\AppData\Local\Temporary Projects\TextFileReader_csharp\obj\x86\Debug\TextFileReader_csharp.exe
+C:\Users\cypher\AppData\Local\Temporary Projects\TextFileReader_csharp\obj\x86\Debug\TextFileReader_csharp.pdb
+C:\Users\cypher\documents\visual studio 2010\Projects\TextFileReader_csharp\TextFileReader_csharp\obj\x86\Debug\TextFileReader_csharp.exe
+C:\Users\cypher\documents\visual studio 2010\Projects\TextFileReader_csharp\TextFileReader_csharp\obj\x86\Debug\TextFileReader_csharp.pdb
+C:\Users\cypher\Desktop\tarea de rivalcoba\TextFileReader_csharp\TextFileReader_csharp\obj\x86\Debug\TextFileReader_csharp.exe
+C:\Users\cypher\Desktop\tarea de rivalcoba\TextFileReader_csharp\TextFileReader_csharp\obj\x86\Debug\TextFileReader_csharp.pdb
+C:\Users\cypher\Desktop\tarea de rivalcoba\TextFileReader_csharp\TextFileReader_csharp\bin\Debug\TextFileReader_csharp.exe
+C:\Users\cypher\Desktop\tarea de rivalcoba\TextFileReader_csharp\TextFileReader_csharp\bin\Debug\TextFileReader_csharp.pdb
+C:\Users\cypher\Desktop\tarea de rivalcoba\TextFileReader_csharp\TextFileReader_csharp\obj\x86\Debug\TextFileReader_csharp.csprojResolveAssemblyReference.cache
